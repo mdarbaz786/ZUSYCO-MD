@@ -10,8 +10,8 @@
 
 
 
-Project Name : ARBAZ - MD
-Creator : @darkmakerofc , @mr-khan-x 
+Project Name : zysco - MD
+Creator : @darkmakerofc , @mr-zysco-x 
 
 */
 
@@ -19,7 +19,7 @@ module.exports = {
   OWNER_NUMBER: "917478172267",
   SUDO_NUMBERS : "917478172267,918879696134",
   OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "K H A N",
+  BOT_NAME : "ZUSYCO",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://telegra.ph/file/29edf1c593f46cb9d3349.jpg',
